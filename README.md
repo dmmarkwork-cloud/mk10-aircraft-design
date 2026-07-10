@@ -77,5 +77,3 @@ mk10-aircraft-design/
 - **Calculations:** Excel
 - **Plotting:** OriginLab, Excel
 - **Standards / references:** FAR Part 23; Bruhn, *Analysis and Design of Flight Vehicle Structures*
-
-> **Note:** Native CAD files (`.SLDPRT`, `.SLDDRW`) open in SolidWorks and are committed directly — the repo is ~12 MB total, so no Git LFS is required.
