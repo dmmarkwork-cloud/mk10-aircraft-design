@@ -1,0 +1,10 @@
+# Treat design/binary files as binary: no line-ending conversion, no noisy text diffs
+*.SLDPRT  binary
+*.SLDDRW  binary
+*.SLDASM  binary
+*.STEP    binary
+*.xlsx    binary
+*.opju    binary
+*.pdf     binary
+*.png     binary
+*.jpg     binary
