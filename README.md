@@ -4,6 +4,8 @@ Conceptual-through-structural design of the **MK-10**, a two-seat single-engine 
 
 Inspired by the Tecnam P2002-JF · Low straight-tapered wing · Fixed tricycle landing gear
 
+![MK-10: 3D View](drawings/3d-view.png)
+
 ## Key Specifications
 
 | Parameter | Value |
